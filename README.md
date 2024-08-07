@@ -11,35 +11,45 @@ Welcome to my CS50AI projects repository! This repository contains a collection 
 ## Projects
 
 ### Week 0: Search
-Search Algorithms and AI basics
+AI basic, DFS, BFS, Greedy BFS, A* Search, Adversarial Search, Minimax and Alpha-Beta Pruning
 - [Degrees](./degrees)
 - [Tic-Tac-Toe](./tictactoe)
 ##
 
 ### Week 1: Knowledge
-Brief overview
+Knowledge Bases, Propositional Logic, Inference & Inference Rules
+- [Knights](./knights)
+- [Minesweeper](./minesweeper)
 ##
 
 ### Week 2: Uncertainty
-Brief overview
+Probability, Bayes' Rule, Bayesian Networks, Sampling and Markov Models
+- [Pagerank](./pagerank)
+- [Heredity](./heredity)
 ##
 
 ### Week 3: Optimization
-Brief overview
+Local Search, Hill Climbing, Simulated Annealing, Node & Arc Consistency and Backtracking Search
+- [Crossword](./crossword)
 ##
 
 ### Week 4: Learning
-Brief overview
+Supervised, Unsupervised & Reinforcement Learning, K-Neighbor Classification, Perceptron Learning, SVMs, Regression, Loss Functions, Overfitting, Regularization, Markov Decision Process, Scikit-Learn, Q-Learning and K-Means Clustering
+- [Shopping](./shopping)
+- [Nim](./nim)
 ##
 
 ### Week 5: Neural Networks
-Brief overview
+ANNs, CNNs & RNNs, Activation Functions, Gradient Descent, Backpropagation, Overfitting, Dropout, TensorFlow, Computer Vision and Image Convolution
+- [Traffic - My Favorite Project](./traffic)
 ##
 
 ### Week 6: Language
-Brief overview
+NLTK, N-Grams, Tokenization, Markov Models, Bag-of-Words Model, Naive Bayes, Word to Vectors, Attention and Transformers
+- [Parser](./parser)
+- [Attention](./attention)
 ##
 
 
 ## Acknowledgments
-Thanks again to Harvard University and CS50's staff for providing this excellent course material and learning experience, this was another great time for me and I enjoyed it a lot!
+Thanks again to Harvard University and CS50's staff for providing this excellent course material and learning experience, this was a great time for me and I enjoyed it a lot! Especially the Neural Network Lecture and the corresponding Project of identifying road signs with a CNN.
