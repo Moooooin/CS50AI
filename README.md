@@ -41,7 +41,7 @@ Supervised, Unsupervised & Reinforcement Learning, K-Neighbor Classification, Pe
 
 ### Week 5: Neural Networks
 ANNs, CNNs & RNNs, Activation Functions, Gradient Descent, Backpropagation, Overfitting, Dropout, TensorFlow, Computer Vision and Image Convolution
-- [Traffic - My Favorite Project](./traffic)
+- [Traffic - My Favorite](./traffic)
 ##
 
 ### Week 6: Language
